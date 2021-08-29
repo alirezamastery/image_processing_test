@@ -1,0 +1,5 @@
+/venv/
+/.idead/
+*.png
+*.jpg
+fas.traineddata
